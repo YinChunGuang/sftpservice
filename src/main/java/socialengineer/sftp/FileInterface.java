@@ -1,4 +1,4 @@
-package com.accenture.socialengineer.sftp;
+package socialengineer.sftp;
 
 import java.io.IOException;
 
